@@ -1,1 +1,1 @@
-product
+product 1*1
