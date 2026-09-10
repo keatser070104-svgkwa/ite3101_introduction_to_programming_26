@@ -1,2 +1,2 @@
 customers = 1
-price_per_customber
+price_per_cucumber
