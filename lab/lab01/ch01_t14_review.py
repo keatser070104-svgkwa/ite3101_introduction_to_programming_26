@@ -1,1 +1,1 @@
-ch01_t14_review.py X
+skill_completed = "Python Syntax"
