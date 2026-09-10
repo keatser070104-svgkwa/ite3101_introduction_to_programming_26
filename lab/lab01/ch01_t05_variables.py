@@ -1,1 +1,1 @@
-todays_date
+todays_date = f"datetime.datetime.now()"
