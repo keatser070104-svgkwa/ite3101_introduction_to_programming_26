@@ -1,2 +1,2 @@
-print ="Norwegian Blue"
+parrot ="Norwegian Blue"
 print ="len(Norwegian Blue)"
