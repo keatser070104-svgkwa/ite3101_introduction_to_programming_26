@@ -5,5 +5,5 @@
 # print(caesar)
 # print(praline)
 # print(viking)
-caesar = "Graham"
-praline = 
+caesar ="Graham"
+praline ="John
