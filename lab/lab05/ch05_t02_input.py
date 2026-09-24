@@ -1,3 +1,3 @@
 print('Welcome to the Pig Latin Translator!')
-origina =(input())
+origina =(input(("Enter a word: "))
 # Start coding here!
