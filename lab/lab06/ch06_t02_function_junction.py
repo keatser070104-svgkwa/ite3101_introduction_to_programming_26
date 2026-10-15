@@ -1,4 +1,4 @@
-def hello_world():
+def Eggs!():
    """Prints 'Hello World!' to the console."""
    print("Hello World!")
 
