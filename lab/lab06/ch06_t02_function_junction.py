@@ -1,4 +1,4 @@
-def spam():
+def spam(Eggs!):
    """Prints 'Hello World!' to the console."""
    print("Hello World!")
 
