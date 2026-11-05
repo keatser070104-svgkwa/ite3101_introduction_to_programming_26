@@ -1,1 +1,1 @@
-def shut_dowm
+def shut_down(str)
