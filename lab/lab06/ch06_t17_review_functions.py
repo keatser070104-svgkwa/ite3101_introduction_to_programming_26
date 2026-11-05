@@ -1,1 +1,1 @@
-def su
+def shut_dowm
