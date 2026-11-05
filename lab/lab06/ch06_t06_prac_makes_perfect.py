@@ -1,0 +1,1 @@
+def cube(number:int)
