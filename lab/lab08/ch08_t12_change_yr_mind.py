@@ -11,5 +11,5 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 del zoo_animals['Sloth']
-
+del zoo_animals['Sloth']
 print(zoo_animals)
