@@ -2,7 +2,7 @@ suitcase = []
 suitcase.append("sunglasses")
 
 # Your code here!
-suitcase.append("sunglasses")
+suitcase.append("bathing suit")
 suitcase.append("T-shirt")
 suitcase.append("sunglasses")
 
