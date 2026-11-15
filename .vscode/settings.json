@@ -13,7 +13,7 @@
         ]
     },
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 3000000000000000000,
+    "files.autoSaveDelay": 3000,
     "editor.formatOnSave": true,
     "editor.formatOnType": false,
     "editor.defaultFormatter": "ms-python.autopep8",
