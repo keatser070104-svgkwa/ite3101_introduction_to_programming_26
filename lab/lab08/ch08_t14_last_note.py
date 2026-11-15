@@ -13,6 +13,6 @@ inventory['pouch'].sort()
 
 # Your code here
 inventory['pocket']=['seashell','strange berry','Lint']
-inventory['backpack']=['seashell','strange berry','Lint']
+inventory['backpack'].sort()
 inventory['pocket']=['seashell','strange berry','Lint']
 inventory['pocket']=['seashell','strange berry','Lint']
