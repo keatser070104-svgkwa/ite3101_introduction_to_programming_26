@@ -4,7 +4,7 @@ animals = "catdogfrog"
 cat = animals[:3]
 
 # The fourth through sixth characters
-dog = None
+dog = animals[]
 
 # From the seventh character to the end
 frog = None
