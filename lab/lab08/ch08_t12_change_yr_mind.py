@@ -10,6 +10,6 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 del zoo_animals['Unicorn']
 
 # Your code here!
-
+del ZeroDivisionError
 
 print(zoo_animals)
