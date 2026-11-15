@@ -15,4 +15,4 @@ for key in prices:
     print(key)
     print("price: %s" % prices[key])
     print("stock: %s" % stock[key])
-total = price[key]
+total = price[key] * stock[key]
