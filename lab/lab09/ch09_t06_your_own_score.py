@@ -1,1 +1,1 @@
-prices
+prices =
