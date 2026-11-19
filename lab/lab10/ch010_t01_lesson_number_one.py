@@ -1,18 +1,18 @@
 lloyd = {
     "name": "Lloyd",
-    "homework":[],
+    "homework": [],
     "quizzes": {},
     "tests": []
 }
 alice = {
     "name": "Alice",
-    "homework":[],
+    "homework": [],
     "quizzes": {},
     "tests": []
 }
 tyler = {
-    "name": "tyler",
-    "homework":[],
+    "name": "Tyler",
+    "homework": [],
     "quizzes": {},
     "tests": []
 }
