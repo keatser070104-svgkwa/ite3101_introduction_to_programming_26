@@ -23,9 +23,6 @@ def random_col(board_in: List[List[str]]) -> int:
 ship_row = random_row(board)
 ship_col = random_col(board)
 
-print(ship_row)
-print(ship_col)
-
 # Everything from here on should be in your for loop
 # don't forget to properly indent!
 for turn in range(4):
