@@ -1,3 +1,4 @@
+from typing import List
 n = [3, 5, 7]
 
 for i in range(0, len(n)):
@@ -5,10 +6,9 @@ for i in range(0, len(n)):
 # Don't forget to return your new list!
 
 
-def double_list(l: list) -> list:
-    for i in range(0, len(l)):
-        l[i] = l[i] * 2
-    return l
+def double_list(x: List[int]) -> List[int]:
+    for i in range(0, len(x)):
+        x[i] = xz[i]*2
 
 
 print(double_list(n))
