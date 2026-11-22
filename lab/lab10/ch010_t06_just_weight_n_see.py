@@ -25,8 +25,10 @@ def average(numbers: List[float]) -> float:
     return total / len(numbers)
 
 # Add your function below!
-def get_average(student:dict) -> float:
-    homework = avergar(student["homework"])
-    quizzes = avergar(student["quizzes"])
-    tests = avergar(student["tests"])
+
+
+def get_average(student: dict) -> float:
+    homework = average(student["homework"])
+    quizzes = average(student["quizzes"])
+    tests = aaverage(student["tests"])
     return homework*0.1 + quizzes*0.3 + tests*0.6
