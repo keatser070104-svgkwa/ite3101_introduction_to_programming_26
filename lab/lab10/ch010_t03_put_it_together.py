@@ -17,4 +17,4 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-students = []
+students = [lloyd,alice,tyler]
