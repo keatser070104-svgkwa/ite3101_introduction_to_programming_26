@@ -6,8 +6,8 @@ n = [3, 5, 7]
 
 
 def list_extender(l: List[int]) -> List[int]:
-    1.append(9)
-    return 1
+    l.append(9)
+    return l
 
 
 print(list_extender(n))
