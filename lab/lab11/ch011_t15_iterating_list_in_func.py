@@ -1,8 +1,10 @@
+from typing import List
+
 n = [3, 5, 7]
 
 
-def total(l: list) -> int:
-    t = 0
-    for x in l:
-        t += x
-    return t
+def total(numbers: List[int]) -> int:
+    result = 0
+    for number in numbers:
+        result += number
+    return result
