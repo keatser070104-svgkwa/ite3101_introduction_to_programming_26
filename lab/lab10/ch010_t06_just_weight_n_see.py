@@ -28,4 +28,4 @@ def average(numbers: List[float]) -> float:
 def get_average(student:dict) -> float:
     homework = avergar(student["homework"])
     quizzes = avergar(student["quizzes"])
-    homework = avergar(student["homework"])
+    tests = avergar(student["tests"])
