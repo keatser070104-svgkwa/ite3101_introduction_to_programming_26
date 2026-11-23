@@ -1,7 +1,6 @@
-def anti_vowel(text):
-    vowels = {"a", "e", "i", "o", "u", "A", "E", "I", "O", "U"}
+def anti_vowel(text: str) -> str:
     result = ""
     for char in text:
-        if char not in vowels:
+        if char.lower() not in "aeiou":
             result += char
     return result

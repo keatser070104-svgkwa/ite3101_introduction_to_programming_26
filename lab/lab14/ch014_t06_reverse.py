@@ -1,5 +1,7 @@
-def reverse(text):
-    reversed_text = ""
-    for i in range(len(text) - 1, -1, -1):
-        reversed_text += text[i]
-    return reversed_text
+def reverse(text: str) -> str:
+    word = ""
+    length = len(text) - 1
+    while length >= 0:
+        word = word + text[length]
+        length -= 1
+    return word
