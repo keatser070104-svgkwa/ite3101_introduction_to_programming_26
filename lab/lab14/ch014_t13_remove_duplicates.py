@@ -1,6 +1,9 @@
-def remove_duplicates(lst):
-    unique_list = []
-    for item in lst:
-        if item not in unique_list:
-            unique_list.append(item)
-    return unique_list
+from typing import List
+
+
+def remove_duplicates(seq: List[int])-> List[int]:
+    result = []
+    for item in seq:
+        if item not in result:
+            result.append(item)
+    return result

@@ -1,5 +1,9 @@
-def product(numbers):
+from typing import List
+
+
+
+def product(seq: List[int])->int:
     result = 1
-    for num in numbers:
-        result *= num
+    for item in seq:
+        result *= item
     return result

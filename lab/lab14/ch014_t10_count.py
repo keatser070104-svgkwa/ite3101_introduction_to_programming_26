@@ -1,6 +1,10 @@
-def count(sequence, item):
-    counter = 0
-    for element in sequence:
-        if element == item:
-            counter += 1
-    return counter
+from typing import List
+
+
+
+def count(sequence: List[int], item: int) -> int:
+    result = 0
+    for i in sequence:
+        if i == item:
+            result += 1
+    return result

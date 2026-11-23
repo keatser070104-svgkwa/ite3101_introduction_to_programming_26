@@ -1,6 +1,10 @@
-def purify(numbers):
-    even_list = []
-    for num in numbers:
-        if num % 2 == 0:
-            even_list.append(num)
-    return even_list
+from typing import List
+
+
+
+def purify(seq: List[int]) -> List[int]:
+    result =[]
+    for item in seq:
+        if item % 2 == 0:
+            result.append(item)
+    return result
