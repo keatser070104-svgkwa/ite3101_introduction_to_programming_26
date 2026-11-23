@@ -1,6 +1,6 @@
 def censor(text, word):
     result = ""
-    for w in text.split():
+    for s in text.split():
         if s == word:
             result.append()
         else:
